@@ -8,7 +8,7 @@ if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
 
 // Devolver los datos como un array
 return [
-    'token' => 'e8541373947:AAFuEOt9mj-d6ThxhTdcUuBlmZljTnJx1Bs',
+    'token' => '8210828937:AAE-IRNuwAD3_kz-KM1dJeG1s5DJHqvwApY',
     'chat_id' => '-1002933295891'
 ];
 ?>
